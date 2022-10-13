@@ -1,0 +1,10 @@
+E:\Desktop.C#\AdmSite\AdmSite\bin\Debug\AdmSite.exe.config
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.csprojResolveAssemblyReference.cache
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.Frmprincipal.resources
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.FrmCadUsuario.resources
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.Properties.Resources.resources
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.csproj.GenerateResource.Cache
+E:\Desktop.C#\AdmSite\AdmSite\bin\Debug\AdmSite.exe
+E:\Desktop.C#\AdmSite\AdmSite\bin\Debug\AdmSite.pdb
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.exe
+E:\Desktop.C#\AdmSite\AdmSite\obj\Debug\AdmSite.pdb
